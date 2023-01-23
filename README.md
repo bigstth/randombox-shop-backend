@@ -1,1 +1,3 @@
-![ERD](https://sv1.picz.in.th/images/2023/01/23/LW8ObS.jpg)
+
+[ER diagram](https://drive.google.com/file/d/1MzRsg9mx9TN6UrQVA-qht6syBcEelm1v/view?usp=sharing)
+
